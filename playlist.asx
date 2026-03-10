@@ -1,0 +1,6 @@
+<ASX version = "3.0">
+ <Entry>
+ <Ref href = "http://sd1.puroradio.net:8024//stream" />
+ <Ref href = "http://sd1.puroradio.net:8024//stream" />
+ </Entry>
+</ASX>
